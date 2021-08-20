@@ -1,0 +1,9 @@
+setup.py
+src/coffee_app.egg-info/PKG-INFO
+src/coffee_app.egg-info/SOURCES.txt
+src/coffee_app.egg-info/dependency_links.txt
+src/coffee_app.egg-info/top_level.txt
+src/coffeeplanner/__init__.py
+src/coffeeplanner/generate_couples.py
+src/coffeeplanner/app/__init__.py
+src/coffeeplanner/app/app.py
